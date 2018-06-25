@@ -1,0 +1,15 @@
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\EntityFramework.dll
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\EntityFramework.xml
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

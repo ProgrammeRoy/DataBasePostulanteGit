@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataBasePostulantesModelStoreContainer" CdmEntityContainer="DataBasePostulantesEntities">
+    <EntitySetMapping Name="ExperienciaLaboral">
+      <EntityTypeMapping TypeName="DataBasePostulantesModel.ExperienciaLaboral">
+        <MappingFragment StoreEntitySet="ExperienciaLaboral">
+          <ScalarProperty Name="FichaDatosId" ColumnName="FichaDatosId" />
+          <ScalarProperty Name="CelularReferencia" ColumnName="CelularReferencia" />
+          <ScalarProperty Name="NombreReferencia" ColumnName="NombreReferencia" />
+          <ScalarProperty Name="MotivoRenuncia" ColumnName="MotivoRenuncia" />
+          <ScalarProperty Name="TiempoLaborado" ColumnName="TiempoLaborado" />
+          <ScalarProperty Name="Puesto" ColumnName="Puesto" />
+          <ScalarProperty Name="NombreEmpresa" ColumnName="NombreEmpresa" />
+          <ScalarProperty Name="ExperienciaLaboralId" ColumnName="ExperienciaLaboralId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FichaDatos">
+      <EntityTypeMapping TypeName="DataBasePostulantesModel.FichaDatos">
+        <MappingFragment StoreEntitySet="FichaDatos">
+          <ScalarProperty Name="EstudiosComplementarios" ColumnName="EstudiosComplementarios" />
+          <ScalarProperty Name="Ciclo" ColumnName="Ciclo" />
+          <ScalarProperty Name="CentroEstudiosSuperiores" ColumnName="CentroEstudiosSuperiores" />
+          <ScalarProperty Name="GradoInstruccion" ColumnName="GradoInstruccion" />
+          <ScalarProperty Name="PuestoInteresado" ColumnName="PuestoInteresado" />
+          <ScalarProperty Name="Nacionalidad" ColumnName="Nacionalidad" />
+          <ScalarProperty Name="EstadoCivil" ColumnName="EstadoCivil" />
+          <ScalarProperty Name="Departamento" ColumnName="Departamento" />
+          <ScalarProperty Name="Distrito" ColumnName="Distrito" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Correo" ColumnName="Correo" />
+          <ScalarProperty Name="Celular" ColumnName="Celular" />
+          <ScalarProperty Name="DNI" ColumnName="DNI" />
+          <ScalarProperty Name="Sexo" ColumnName="Sexo" />
+          <ScalarProperty Name="FechaNacimiento" ColumnName="FechaNacimiento" />
+          <ScalarProperty Name="Apellido" ColumnName="Apellido" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="FichaDatosId" ColumnName="FichaDatosId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataBasePostulantesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="ExperienciaLaboral">
+    <Key>
+      <PropertyRef Name="ExperienciaLaboralId" />
+    </Key>
+    <Property Name="ExperienciaLaboralId" Type="int" Nullable="false" />
+    <Property Name="NombreEmpresa" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Puesto" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TiempoLaborado" Type="int" Nullable="false" />
+    <Property Name="MotivoRenuncia" Type="varchar(max)" Nullable="false" />
+    <Property Name="NombreReferencia" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CelularReferencia" Type="int" />
+    <Property Name="FichaDatosId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FichaDatos">
+    <Key>
+      <PropertyRef Name="FichaDatosId" />
+    </Key>
+    <Property Name="FichaDatosId" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Apellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="FechaNacimiento" Type="date" Nullable="false" />
+    <Property Name="Sexo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DNI" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Celular" Type="int" Nullable="false" />
+    <Property Name="Correo" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Direccion" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Distrito" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Departamento" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="EstadoCivil" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Nacionalidad" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="PuestoInteresado" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="GradoInstruccion" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CentroEstudiosSuperiores" Type="varchar" MaxLength="50" />
+    <Property Name="Ciclo" Type="int" />
+    <Property Name="EstudiosComplementarios" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="DataBasePostulantesModelStoreContainer">
+    <EntitySet Name="ExperienciaLaboral" EntityType="Self.ExperienciaLaboral" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="FichaDatos" EntityType="Self.FichaDatos" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,12 @@
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\DataBasePostulantes.exe.config
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\DataBasePostulantes.exe
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\DataBasePostulantes.pdb
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\obj\Debug\DataBasePostulantes.csprojResolveAssemblyReference.cache
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\obj\Debug\DataBasePostulantes.csproj.CoreCompileInputs.cache
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\obj\Debug\DataBasePostulantes.exe
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\obj\Debug\DataBasePostulantes.pdb
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\EntityFramework.dll
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\EntityFramework.xml
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\royma\OneDrive\Documents\DataBase Postulantes\DataBasePostulantes\DataBasePostulantes\obj\Debug\DataBasePostulantes.csproj.CopyComplete
