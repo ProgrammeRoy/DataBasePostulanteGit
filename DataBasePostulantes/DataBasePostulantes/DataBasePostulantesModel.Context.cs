@@ -9,23 +9,24 @@
 
 namespace DataBasePostulantes
 {
-    using System;
-    using System.Data.Entity;
-    using System.Data.Entity.Infrastructure;
-    
-    public partial class DataBasePostulantesEntities : DbContext
+  using System;
+  using System.Data.Entity;
+  using System.Data.Entity.Infrastructure;
+
+  public partial class DataBasePostulantesEntities : DbContext
+  {
+    public DataBasePostulantesEntities()
+        : base("name=DataBasePostulantesEntities")
     {
-        public DataBasePostulantesEntities()
-            : base("name=DataBasePostulantesEntities")
-        {
-        }
-    
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-            throw new UnintentionalCodeFirstException();
-        }
-    
-        public virtual DbSet<ExperienciaLaboral> ExperienciaLaboral { get; set; }
-        public virtual DbSet<FichaDatos> FichaDatos { get; set; }
     }
+
+    protected override void OnModelCreating(DbModelBuilder modelBuilder)
+    {
+      throw new UnintentionalCodeFirstException();
+    }
+
+    public virtual DbSet<ExperienciaLaboral> ExperienciaLaboral { get; set; }
+    public virtual DbSet<FichaDatos> FichaDatos { get; set; }
+
+  }
 }
